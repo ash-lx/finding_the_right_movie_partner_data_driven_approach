@@ -1,3 +1,3 @@
 # Finding the right movie partner - Data driven approach
 
-![Video](files/thumbnail.png)
+[![Watch the video](files/thumbnail.png)](https://youtu.be/AoTW7juWQng)
