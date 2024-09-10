@@ -2,4 +2,4 @@
 
 [![Watch the video](files/thumbnail.png)](https://youtu.be/AoTW7juWQng)
 
-[View PDF](files/finding_the_right_movie_partner.pdf)
+[View PDF](finding_the_right_movie_partner.pdf)
